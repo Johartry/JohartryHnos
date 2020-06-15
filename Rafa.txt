@@ -1,4 +1,6 @@
 Vamoa a inciar unas prubas con Git.
 primera prueba
 vamos  a hacer otra modificacion a este archivo para ver que pasa
+veremos que pasa si esta editado
+
 
