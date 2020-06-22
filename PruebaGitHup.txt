@@ -1,0 +1,2 @@
+para ver y navegar entre las ramas con GitHup... para ello hogo
+este file
